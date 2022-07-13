@@ -1,1 +1,1 @@
-بازی دوز بصورت گرافیکی در زبان جاوا پیاده سازی شده است
+Grafical Tic Tac Toe game wrote with Java.
