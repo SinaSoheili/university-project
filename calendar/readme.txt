@@ -1,1 +1,1 @@
- یک تقویم ساده که روز اول سال رو میگره و تقویم یک سال رو به روش های مختلف مثلا ماهانه ، هفتگی و ... نشون میده.
+A calendar that get first day of year and show all dates of year
