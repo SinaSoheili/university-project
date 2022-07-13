@@ -1,6 +1,7 @@
 # student-cheat
 
-<p dir='rtl' align='right'>
-بعضی از پروژه های ساده ی دانشجویی رو اینجا میزارم .<br>
-برای هر پروژه یک فولدر وجود داره و داخل اون عملکرد پروژه مشخص شده.
+<p dir='ltr' align='left'>
+  You can find some different simple project in this repository they are related to university and begginers can use that.<br>
+  They are like a sandbox :wink: <br>
+  There is a separate folder for each project and that contains related information about project
 </p>
