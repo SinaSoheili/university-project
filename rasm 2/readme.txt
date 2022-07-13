@@ -1,2 +1,4 @@
-رسم یک شکل ساده با استفاده از گرافیک زبان سی پلاس پلاس که قبل از کامپایل برنامه باید مد گرافیکی رو باز کنید تا بتونید کامپایل کنید.
-عکس مربوط به رسم رو در فایل های پروژه قرار میدم
+A grafical application draw a geometric picture wrote with C++ <br>
+To see generated picture please look at image2.png <br>
+
+Note : before compile project you need to open grafical mode in your computer for C++
